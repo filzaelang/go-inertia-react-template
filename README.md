@@ -11,3 +11,4 @@ A base template for creating golang inertia react project, To make setup easier
 7. Add your own .env file with at least "BUILD_ENV" variable
 8. Run "bun dev" or "npm run dev" in views terminal
 9. Run "go run main.go" in base terminal
+10. Open in backend's server (localhost:3000)

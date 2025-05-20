@@ -8,5 +8,6 @@ A base template for creating golang inertia react project, To make setup easier
 4. Run "go mod tidy"
 5. Change the module name "inertia-echo" with your own module name
 6. Open another terminal, run "cd views" and run "npm install" or "bun install"
-7. Run "bun dev" or "npm run dev" in views terminal
-8. Run "go run main.go" in base terminal
+7. Add your own .env file with at least "BUILD_ENV" variable
+8. Run "bun dev" or "npm run dev" in views terminal
+9. Run "go run main.go" in base terminal
